@@ -1,7 +1,7 @@
 {
   "app": "AI URBANE BlogBot",
   "channel": "stable",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "build": "20260624",
   "min_supported_version": "1.0.0",
   "mandatory": false,
