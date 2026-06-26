@@ -2,16 +2,16 @@
   "app": "AI URBANE BlogBot",
   "channel": "stable",
   "version": "1.0.6",
-  "build": "20260625",
+  "build": "20260626",
   "min_supported_version": "1.0.0",
   "mandatory": false,
   "package_type": "zip",
   "download_url": "https://github.com/HAMJEHOON/AIBLOG/releases/download/v1.0.6/AI_URBANE_BlogBot_1.0.6.zip",
-  "sha256": "9a35607b5bf5c1900e8cb25611ae319d2aae603442edc9a27878354b3af00cb1",
-  "size": 150147086,
+  "sha256": "08e08d73f65d788753af7aa5aab819a6356e37564f93a116fd6a1d1b5b01e5fb",
+  "size": 150155640,
   "release_notes": [
     "자동 업데이트 기능 추가",
     "전용 Windows 환경 모드"
   ],
-  "published_at": "2026-06-25T17:36:42.912798+09:00"
+  "published_at": "2026-06-26T10:18:51.034705+09:00"
 }
